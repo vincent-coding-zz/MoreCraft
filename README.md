@@ -1,4 +1,4 @@
 # MoreCraft
 
 Created by **vincent-coding**<br />
-All right reserved !
+Licences : *Apache version 2.0*
